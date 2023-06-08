@@ -19,8 +19,4 @@ export const data = [
     id: 5,
     todo: "넥스트js 배우기",
   },
-  {
-    id: 6,
-    todo: "리액트 배우기",
-  },
 ];
